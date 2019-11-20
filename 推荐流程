@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-20T09:23:18.625Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="rdRzQOqrZ38ZbZkADThK" version="12.2.7" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-20T11:49:38.372Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="goURXwJ40eYOxhFVysKG" version="12.2.7" type="github" pages="1">
   <diagram id="TWi8iTP_zaPJOIz0y53F" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,26 +14,26 @@
         </mxCell>
         <mxCell id="umhaRvdE8HQKz9k7Te2E-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="umhaRvdE8HQKz9k7Te2E-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="658" y="322" as="targetPoint"/>
+            <mxPoint x="448" y="238" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="umhaRvdE8HQKz9k7Te2E-2" value="&lt;span style=&quot;text-align: left ; white-space: normal&quot;&gt;isDataFromQiyuSwitcher&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&amp;lt;10.9.0&lt;/span&gt;&lt;span style=&quot;text-align: left ; white-space: normal&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="252" y="238" width="308" height="70" as="geometry"/>
+          <mxGeometry x="42" y="154" width="308" height="70" as="geometry"/>
         </mxCell>
         <mxCell id="umhaRvdE8HQKz9k7Te2E-3" value="&lt;span style=&quot;text-align: left&quot;&gt;if (!recommendProperties.isDataFromQiyuSwitcher() || EdgeTool.compareVersion(qiyiVersion, &quot;10.9.0&quot;) &amp;lt; 0) {&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="364" y="168" width="560" height="70" as="geometry"/>
+          <mxGeometry x="154" y="84" width="560" height="70" as="geometry"/>
         </mxCell>
         <mxCell id="umhaRvdE8HQKz9k7Te2E-8" value="&lt;span style=&quot;text-align: left&quot;&gt;getRecommendRooms&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="308" y="396" width="196" height="52" as="geometry"/>
+          <mxGeometry x="98" y="312" width="196" height="52" as="geometry"/>
         </mxCell>
         <mxCell id="umhaRvdE8HQKz9k7Te2E-10" value="大直播实现推荐" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="505" y="415" width="126" height="14" as="geometry"/>
+          <mxGeometry x="295" y="331" width="126" height="14" as="geometry"/>
         </mxCell>
         <mxCell id="umhaRvdE8HQKz9k7Te2E-13" value="&lt;span style=&quot;text-align: left ; white-space: nowrap&quot;&gt;getRecommendFromQiyu&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="631" y="327" width="196" height="52" as="geometry"/>
+          <mxGeometry x="421" y="243" width="196" height="52" as="geometry"/>
         </mxCell>
         <mxCell id="umhaRvdE8HQKz9k7Te2E-14" value="推荐团队" style="text;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="827" y="337" width="98" height="42" as="geometry"/>
+          <mxGeometry x="617" y="253" width="98" height="42" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
